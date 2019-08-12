@@ -1,0 +1,37 @@
+{
+  "name": "livepeer-api-express-server",
+  "version": "1.0.0",
+  "description": "Node express server for Livepeer API.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "prestart": "npm run build",
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbcp18/livepeer-api.git"
+  },
+  "keywords": [
+    "livepeer",
+    "api"
+  ],
+  "author": "Fabrx",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "express": "^4.16.4",
+    "@livepeer/sdk": "^1.0.0-alpha.6",
+    "body-parser": "^1.18.3"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.0",
+    "@types/node": "^11.13.19",
+    "tslint": "^5.18.0",
+    "typescript": "^3.5.3"
+  },
+  "bugs": {
+    "url": "https://github.com/rbcp18/livepeer-api/issues"
+  },
+  "homepage": "https://github.com/rbcp18/livepeer-api#readme"
+}
