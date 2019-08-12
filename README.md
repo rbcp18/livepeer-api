@@ -1,11 +1,15 @@
 # livepeer-api
 **The Livepeer API** will act as a unified point of contact for Livepeer developers to perform queries, connect to websockets, run smart contract functions, and interact with nodes. 
 
+Version 1.0.0 of the Livepeer API can be found here: https://app.swaggerhub.com/apis-docs/rfabrx/livepeer-api/1.0.0
+
+--
+
 The API will consist of two layers:
 
 **Layer 1: Data and WebSockets**
 
-Layer 1 will integrate all major Livepeer tools and access points. Platforms which are planned for integration include: the Livepeer SDK (for GET request functionality), Livepeer subgraph (for queries on transcoders, rewards, and rounds, and websockets on events), Livepeer studio (for staking alerts), Scout.cool (if possible, for mainnet market data), and OpenMarketCap (or other token data feeds).
+Layer 1 will integrate all major Livepeer tools and access points. Platforms which are planned for integration include: the Livepeer SDK (for GET request functionality), Livepeer subgraph (for queries on transcoders, rewards, and rounds, and websockets on events), Livepeer studio (for staking alerts), and OpenMarketCap (or other token data feeds).
 
 In addition, custom data-based API calls will be integrated, such as (1) retrieval of all Livepeer smart contracts on mainnet, (2) JSON data of transcoders (by address) with their campaign information (name, team, about), and (3) events from specific LPT exchanges (eg. Poloniex, Uniswap, IDEX) and wallets (eg. 0x6941627cba3518385e75de75d25a189185672bfe, which holds 6.5% of the network).
 
