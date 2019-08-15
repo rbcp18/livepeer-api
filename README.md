@@ -14,3 +14,47 @@ Layer 1 will integrate all major Livepeer tools and access points. Platforms whi
 **Layer 2: Nodes and Smart Contracts**
 
 Layer 2 will constitute the launch of full nodes running on both Mainnet and Ropsten with HTTP access. This will enable developers to immediately start building on a Livepeer node, without going through the potential roadblocks faced when launching a private node. In addition, this will enable broadcasters to use the Testnet nodes (and Mainnet nodes, if desired) as a way to quickly get up and running with the OBS integration.
+
+--
+
+**How to Run the Unified Livepeer API locally**
+
+To run the subgraph, coingecko, and staking alerts endpoints, run the python library. This can be found in the livepeer-api-open-source/src-python folder.
+
+1. Clone the repo
+```
+git clone https://github.com/rbcp18/livepeer-api.git
+```
+
+2. Cd into src-python
+```
+cd livepeer-api-open-source/src-python
+```
+
+3. Run the Flask server
+```
+python3 run index.py
+```
+
+To run the livepeer sdk endpoints, run the Node library. This can be found in the livepeer-api-open-source/src-node folder.
+
+1. Clone the repo
+```
+git clone https://github.com/rbcp18/livepeer-api.git
+```
+
+2. Cd into src-node
+```
+cd livepeer-api-open-source/src-node
+```
+
+3. Install all node modules
+```
+yarn add
+```
+
+
+4. Run node package
+```
+npm run start
+```
