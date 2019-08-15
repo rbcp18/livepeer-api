@@ -19,6 +19,8 @@ Layer 2 will constitute the launch of full nodes running on both Mainnet and Rop
 
 **How to Run the Unified Livepeer API locally**
 
+**Python**
+
 To run the subgraph, coingecko, and staking alerts endpoints, run the python library. This can be found in the livepeer-api-open-source/src-python folder.
 
 1. Clone the repo
@@ -35,6 +37,8 @@ cd livepeer-api-open-source/src-python
 ```
 python3 run index.py
 ```
+
+**Node**
 
 To run the livepeer sdk endpoints, run the Node library. This can be found in the livepeer-api-open-source/src-node folder.
 
