@@ -32,12 +32,12 @@ git clone https://github.com/rbcp18/livepeer-api.git
 
 2. Cd into src-python
 ```
-cd livepeer-api-open-source/src-python
+cd livepeer-api/livepeer-api-open-source/src-python
 ```
 
 3. Run the Flask server
 ```
-python3 run index.py
+python3 index.py
 ```
 
 
@@ -53,12 +53,12 @@ git clone https://github.com/rbcp18/livepeer-api.git
 
 2. Cd into src-node
 ```
-cd livepeer-api-open-source/src-node
+cd livepeer-api/livepeer-api-open-source/src-node
 ```
 
 3. Install all node modules
 ```
-yarn add
+yarn
 ```
 
 4. Run node package
