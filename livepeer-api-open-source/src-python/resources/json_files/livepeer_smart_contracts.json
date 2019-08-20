@@ -1,0 +1,7 @@
+{
+	"Livepeer Token (LPT)" : "0x58b6a8a3302369daec383334672404ee733ab239",
+	"JobsManager.sol" : "0xBF07Ff45f14c9ff0571B9FBDc7e2B62D29931224",
+	"RoundsManager.sol" : "0x3984fc4ceEeF1739135476f625D36d6c35c40dc3",
+	"BondingManager.sol" : "0x511Bc4556D823Ae99630aE8de28b9B80Df90eA2e",
+	"ServiceRegistry.sol"  : "0x406a112f3218b988c66778Fd72fc8467f2601366"
+}

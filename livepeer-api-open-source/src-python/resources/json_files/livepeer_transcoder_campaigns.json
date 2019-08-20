@@ -1,0 +1,26 @@
+{
+	"Chainflow Transcoder":{
+		"transcoderAddress":"0xd0AA1b9d0cd06caFA6AF5C1aF272be88c38AA831",
+		"name":"Chainflow Transcoder",
+		"team":"Chris (@cjremus)",
+		"about":"https://forum.livepeer.org/t/transcoder-campaign-chainflow-transcoder/330"
+	},
+	"0x88 Hyper Transcoder":{
+		"transcoderAddress":"0x88e103B26e1A4Ce226739D37D356B22AfBfEed85",
+		"name":"0x88 Hyper Transcoder",
+		"team":"Selamat datang",
+		"about":"https://forum.livepeer.org/t/transcoder-campaign-0x88-hyper-transcoder/242"
+	},
+	"@j1v":{
+		"transcoderAddress":"0xd18a02647d99dC9F79AfbE0f58f8353178e6141F",
+		"name":"@j1v",
+		"team":"",
+		"about":"https://forum.livepeer.org/t/transcoder-campaign-j1v/566" 
+	},
+	"Decentralized Community Node": {
+		"transcoderAddress":"0x4f4758f7167b18e1f5b3c1a7575e3eb584894dbc",
+		"name":"Decentralized Community Node",
+		"team": "Livepeer Core Team",
+		"about":"https://forum.livepeer.org/t/transcoder-campaign-decentralized-community-node/203"
+	}
+}
