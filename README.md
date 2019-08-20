@@ -1,7 +1,7 @@
 # livepeer-api
 **The Livepeer API** will act as a unified point of contact for Livepeer developers to perform queries, connect to websockets, run smart contract functions, and interact with nodes. 
 
-Version 1.0.0 of the Livepeer API can be found here: https://app.swaggerhub.com/apis-docs/rfabrx/livepeer-api/1.0.0
+Version 1.0.0 of the Livepeer API can be found here: https://app.swaggerhub.com/apis-docs/rfabrx/livepeer-api/1.0.1
 
 --
 
