@@ -22,5 +22,11 @@
 		"name":"Decentralized Community Node",
 		"team": "Livepeer Core Team",
 		"about":"https://forum.livepeer.org/t/transcoder-campaign-decentralized-community-node/203"
+	},
+	"@dob Node": {
+		"transcoderAddress":"0xFb9849b0B53F66B747Bfa47396964a3FA22400A0",
+		"name":"@dob",
+		"team": "Doug Petkanics",
+		"about":"https://forum.livepeer.org/t/transcoder-campaign-for-dob/200"
 	}
 }
