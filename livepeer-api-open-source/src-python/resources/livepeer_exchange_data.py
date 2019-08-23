@@ -22,7 +22,7 @@ class livepeer_exchange_data(Resource):
 
 		if 'poloniex-' in service:
 
-			#services include poloniex-returnTradeHistory, poloniex-return24hVolume, poloniex-returnOrderBook
+			#services include poloniex-returnTradeHistory, poloniex-returnOrderBook
 
 			# URL of Poloniex API for LPT market
 			url = "https://poloniex.com/public?command="+service.replace('poloniex-','')+"&currencyPair=BTC_LPT"
