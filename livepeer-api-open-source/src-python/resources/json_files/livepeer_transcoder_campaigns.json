@@ -28,5 +28,137 @@
 		"name":"@dob",
 		"team": "Doug Petkanics",
 		"about":"https://forum.livepeer.org/t/transcoder-campaign-for-dob/200"
+	},
+	"Stake Capital": {
+		"transcoderAddress":"0xA6A9eB29e786B5233bD99C0bA28bE882fe954a0e",
+		"name":"Stake Capital",
+		"team": "Julien Bouteloup",
+		"about":"https://forum.livepeer.org/t/transcoder-campaign-stake-capital-0xa6a9/678"
+	},
+	"Blockdaemon": {
+		"transcoderAddress":"0x4712e01e944802613de3a0a6d23274e7e0243015",
+		"name":"Blockdaemon",
+		"team": "Konstantin Richter",
+		"about":"https://forum.livepeer.org/t/blockdaemon-node/835"
+	},
+	"Staked": {
+		"transcoderAddress":"0xe9e284277648fcdb09b8efc1832c73c09b5ecf59",
+		"name":"Staked",
+		"team": "Tim Ogilvie",
+		"about":"https://forum.livepeer.org/t/transcoder-campaign-staked/429"
+	},
+	"Asia Hong Kong": {
+		"transcoderAddress":"0xa20416801ac2eacf2372e825b4a90ef52490c2bb",
+		"name":"Asia Hong Kong",
+		"team": "Anson from Hong Kong",
+		"about":"https://forum.livepeer.org/t/transcoder-campaign-0xa204-transcoder-asia-hong-kong/249"
+	},
+	"Consensus Networks": {
+		"transcoderAddress":"0xa20416801ac2eacf2372e825b4a90ef52490c2bb",
+		"name":"Consensus Networks",
+		"team": "Nathan Miller",
+		"about":"https://forum.livepeer.org/t/transcoder-campaign-consensus-networks/577"
+	},
+	"ICObliss": {
+		"transcoderAddress":"0xe3ad183416b645ca64f2a3cd1e0aabd8a446acf0",
+		"name":"ICObliss",
+		"team": "Jereme Teo",
+		"about":"https://forum.livepeer.org/t/transcoder-campaign-icobliss-transcoder-0xe3ad18-100-fee-share/751"
+	},
+	"vires-in-numeris": {
+		"transcoderAddress":"0x525419ff5707190389bfb5c87c375d710f5fcb0e",
+		"name":"vires-in-numeris",
+		"team": "",
+		"about":"https://forum.livepeer.org/t/transcoder-campaign-0x525-with-telegram-bot/588"
+	},
+	"LPT Futures": {
+		"transcoderAddress":"0xb52ea89d6532ac8c5f17f06482ff4f8a9c353e3a",
+		"name":"LPT Futures",
+		"team": "Chris Hobcroft",
+		"about":"https://forum.livepeer.org/t/transcoder-campaign-lpt-futures/709"
+	},
+	"Video DAC": {
+		"transcoderAddress":"0xDAC817294c0c87ca4fA1895eF4b972EAde99f2fd",
+		"name":"Video DAC",
+		"team": "",
+		"about":"https://forum.livepeer.org/t/transcoder-campaign-video-dac/553"
+	},
+	"Staken": {
+		"transcoderAddress":"0x9e14de5cc84e437518c2c303c88570fe13f0ad15",
+		"name":"Staken",
+		"team": "Shaleen Jain",
+		"about":"https://forum.livepeer.org/t/transcoder-campaign-staken/664"
+	},
+	"0x71d": {
+		"transcoderAddress":"0x71d832098ae580c25733d20429ac58e1960551c5",
+		"name":"0x71d",
+		"team": "The Engineer",
+		"about":"https://forum.livepeer.org/t/benchmarks-and-active-development-0x71d-transcoder-0-reward-cut/642"
+	},
+	"United Stakes": {
+		"transcoderAddress":"0xa1751df383ca274fe3b872440943cdb1170ff04b",
+		"name":"United Stakes",
+		"team": "Andrey Gulitsky",
+		"about":"https://forum.livepeer.org/t/transcoder-campaign-united-stakes/605"
+	},
+	"Supermax Transcoder": {
+		"transcoderAddress":"0xbD91C9DF3C30F0e43B19b1dd05888CF9b647b781",
+		"name":"Supermax Transcoder",
+		"team": "Chunxi and Kuan",
+		"about":"https://forum.livepeer.org/t/transcoder-campaign-supermax-transcoder-0xbd91c9/290"
+	},
+	"Figment Networks": {
+		"transcoderAddress":"0x9d2b4e5c4b1fd81d06b883b0aca661b771c39ea3",
+		"name":"Figment Networks",
+		"team": "Andrew Cronk, Lorien Gabel, Matt Harrop",
+		"about":"https://forum.livepeer.org/t/transcoder-campaign-figment-networks/273"
+	},
+	"Commonwealth Transcoder": {
+		"transcoderAddress":"0x346c7f442ab4941a97c8a63062bd40ef0f9dbd15",
+		"name":"Commonwealth Transcoder",
+		"team": "Dillon, Drew, and Raymond",
+		"about":"https://forum.livepeer.org/t/transcoder-campaign-commonwealth-transcoder/408"
+	},
+	"US Based - Envy Transcoder": {
+		"transcoderAddress":"0x4c7261230ce3bfa92077ca9b1fc58766d32223b0",
+		"name":"US Based - Envy Transcoder",
+		"team": "envybonus",
+		"about":"https://forum.livepeer.org/t/transcoder-campaign-bonus-lpt-us-based-envy-transcoder-0x4c72/449"
+	},
+	"ETHBerlin Livepeer Node": {
+		"transcoderAddress":"0xf1f08ed10277375a9902c60ccd840f3c76e07efc",
+		"name":"ETHBerlin Livepeer Node",
+		"team": "Chris Hobcroft",
+		"about":"https://forum.livepeer.org/t/transcoder-campaign-ethberlin-livepeer-node-0xf1f0/333"
+	},
+	"Bison Trails": {
+		"transcoderAddress":"0xda43d85b8d419a9c51bbf0089c9bd5169c23f2f9",
+		"name":"Bison Trails",
+		"team": "Aaron Henshaw",
+		"about":"https://forum.livepeer.org/t/transcoder-campaign-0xda43d-bison-trails-livepeer-transcoder/379"
+	},
+	"Livepeer AudioSister": {
+		"transcoderAddress":"0x9b1eeea5e271bf18f8ff0c91576d318b9a488051",
+		"name":"Livepeer AudioSister",
+		"team": "Matteo Tambussi",
+		"about":"https://forum.livepeer.org/t/transcoder-campaign-0x9b1e-livepeer-audiosister/301"
+	},
+	"Aseralis": {
+		"transcoderAddress":"0xed56b683004921ec4e3eaafad535e48153a17f69",
+		"name":"Aseralis",
+		"team": "Aseralis",
+		"about":"https://forum.livepeer.org/t/transcoder-campaign-project-by-aseralis/236"
+	},
+	"Helsinki/Finland": {
+		"transcoderAddress":"0xf1eE89810f4441b025D2d42ff58A0CDC4D797310",
+		"name":"Helsinki/Finland",
+		"team": "xkkfi",
+		"about":"https://forum.livepeer.org/t/transcoder-campaign-helsinki-finland/253"
+	},
+	"ETH-Norway Livepeer Node #UnderDog": {
+		"transcoderAddress":"0x5b6088f3899BAf997DCF730b0Dfd9834aa0bfAAF",
+		"name":"ETH-Norway Livepeer Node #UnderDog",
+		"team": "Jon Jon",
+		"about":"https://forum.livepeer.org/t/transcoder-campaign-eth-norway-livepeer-node-0x5b60-underdog/823"
 	}
 }
