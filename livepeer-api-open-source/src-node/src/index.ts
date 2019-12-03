@@ -16,7 +16,7 @@ const controllerAddress_livepeer = "0x37dC71366Ec655093b9930bc816E16e6b587F968"
 
 var livepeer_rpc: any = {};
 
-LivepeerSDK({ provider_livepeer, controllerAddress_livepeer }).then(async sdk => {
+LivepeerSDK({ provider_livepeer, controllerAddress_livepeer, gas: 2.1*1000000 }).then(async sdk => {
   livepeer_rpc = sdk
 })
 
