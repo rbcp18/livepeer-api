@@ -20,7 +20,7 @@
   "author": "Fabrx",
   "license": "AGPL-3.0",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "@livepeer/sdk": "^1.0.0-alpha.6",
     "body-parser": "^1.18.3"
   },
